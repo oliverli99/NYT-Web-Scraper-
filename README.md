@@ -3,3 +3,4 @@ Scrapes the following NYT website: https://www.nytimes.com/interactive/2020/us/s
 
 
 ## Creating a web scraper for NYT article to understand reopening policies across states in the U.S. 
+Scraping and analyzing text from a NYT article to help understand current financial landscape of the U.S. 
