@@ -1,53 +1,53 @@
-,State,Reopened,Reopened Places Overview,Order Expiration,Outdoor and recreation,Retail,Food and drink,Personal care,Entertainment,Industries,Houses of worship,Total Count
-0,Alabama,Reopened,"['Outdoor and recreation', 'Retail', 'Food and drink', 'Personal care', 'Entertainment']",April 30,True,True,True,True,True,False,False,5
-1,Alaska,Reopened,"['Food and drink', 'Retail', 'Personal care', 'Outdoor and recreation', 'Entertainment']",April 24,True,True,True,True,True,False,False,5
-2,Arizona,Reopened,"['Retail', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment']",May 15,True,True,True,True,True,False,False,5
-3,Arkansas,Reopened,"['Outdoor and recreation', 'Personal care', 'Food and drink', 'Entertainment']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,False,4
-4,California,Reopened,"['Industries', 'Personal care', 'Food and drink', 'Houses of worship', 'Retail', 'Entertainment', 'Outdoor and recreation', 'Personal care']",March 19,True,True,True,True,True,True,True,7
-5,Colorado,Reopened,"['Personal care', 'Retail', 'Industries', 'Outdoor and recreation', 'Food and drink']",April 26,True,True,True,True,False,True,False,5
-6,Connecticut,Reopened,"['Retail', 'Personal care', 'Entertainment', 'Industries', 'Outdoor and recreation', 'Food and drink']",May 20,True,True,True,True,True,True,False,6
-7,Delaware,Reopened,"['Food and drink', 'Outdoor and recreation', 'Retail', 'Entertainment', 'Personal care']",May 31,True,True,True,True,True,False,False,5
-8,District of Columbia,Reopened,"['Food and drink', 'Retail', 'Entertainment', 'Outdoor and recreation', 'Personal care']",May 29,True,True,True,True,True,False,False,5
-9,Florida,Reopened,"['Food and drink', 'Retail', 'Outdoor and recreation', 'Houses of worship', 'Entertainment', 'Personal care']",May 4,True,True,True,True,True,False,True,6
-10,Georgia,Reopened,"['Outdoor and recreation', 'Entertainment', 'Personal care', 'Food and drink']",April 30,True,False,True,True,True,False,False,4
-11,Hawaii,Reopened,"['Outdoor and recreation', 'Retail', 'Personal care', 'Industries', 'Houses of worship', 'Food and drink', 'Outdoor and recreation']",May 31,True,True,True,True,False,True,True,6
-12,Idaho,Reopened,"['Houses of worship', 'Outdoor and recreation', 'Food and drink', 'Personal care', 'Entertainment']",April 30,True,False,True,True,True,False,True,5
-13,Illinois,Reopened,"['Outdoor and recreation', 'Personal care', 'Food and drink', 'Retail', 'Industries']",May 29,True,True,True,True,False,True,False,5
-14,Indiana,Reopened,"['Entertainment', 'Industries', 'Houses of worship', 'Food and drink', 'Personal care', 'Retail', 'Outdoor and recreation']",May 4,True,True,True,True,True,True,True,7
-15,Iowa,Reopened,"['Houses of worship', 'Entertainment', 'Outdoor and recreation', 'Personal care', 'Food and drink', 'Retail']",Did not have a statewide stay-at-home order.,True,True,True,True,True,False,True,6
-16,Kansas,Reopened,"['Food and drink', 'Retail', 'Houses of worship', 'Industries', 'Personal care', 'Outdoor and recreation', 'Entertainment']",May 3,True,True,True,True,True,True,True,7
-17,Kentucky,Reopened,"['Houses of worship', 'Industries', 'Personal care', 'Retail', 'Food and drink', 'Entertainment', 'Outdoor and recreation']",March 26,True,True,True,True,True,True,True,7
-18,Louisiana,Reopened,"['Food and drink', 'Outdoor and recreation', 'Retail', 'Entertainment', 'Personal care', 'Houses of worship']",May 15,True,True,True,True,True,False,True,6
-19,Maine,Reopened,"['Personal care', 'Outdoor and recreation', 'Food and drink', 'Retail', 'Houses of worship']",May 31,True,True,True,True,False,False,True,5
-20,Maryland,Reopened,"['Outdoor and recreation', 'Retail', 'Industries', 'Houses of worship', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment', 'Retail']",May 15,True,True,True,True,True,True,True,7
-21,Massachusetts,Reopened,"['Outdoor and recreation', 'Houses of worship', 'Industries', 'Retail', 'Personal care', 'Food and drink']",May 18,True,True,True,True,False,True,True,6
-22,Michigan,Reopened,"['Outdoor and recreation', 'Industries', 'Retail', 'Personal care', 'Food and drink', 'Entertainment']",June 1,True,True,True,True,True,True,False,6
-23,Minnesota,Reopened,"['Industries', 'Retail', 'Houses of worship', 'Personal care', 'Outdoor and recreation', 'Food and drink', 'Entertainment']",May 17,True,True,True,True,True,True,True,7
-24,Mississippi,Reopened,"['Retail', 'Food and drink', 'Outdoor and recreation', 'Personal care', 'Entertainment']",April 27,True,True,True,True,True,False,False,5
-25,Missouri,Reopened,"['Food and drink', 'Personal care', 'Retail', 'Outdoor and recreation', 'Entertainment']",May 3,True,True,True,True,True,False,False,5
-26,Montana,Reopened,"['Houses of worship', 'Retail', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment']",April 26,True,True,True,True,True,False,True,6
-27,Nebraska,Reopened,"['Houses of worship', 'Food and drink', 'Entertainment', 'Outdoor and recreation', 'Personal care', 'Food and drink', 'Entertainment', 'Outdoor and recreation']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,True,5
-28,Nevada,Reopened,"['Outdoor and recreation', 'Retail', 'Food and drink', 'Personal care', 'Entertainment', 'Houses of worship']",May 9,True,True,True,True,True,False,True,6
-29,New Hampshire,Reopened,"['Retail', 'Personal care', 'Outdoor and recreation', 'Food and drink', 'Houses of worship', 'Entertainment']",June 15,True,True,True,True,True,False,True,6
-30,New Jersey,Reopened,"['Outdoor and recreation', 'Industries', 'Retail', 'Food and drink', 'Entertainment', 'Personal care', 'Outdoor and recreation']",June 9,True,True,True,True,True,True,False,6
-31,New Mexico,Reopened,"['Outdoor and recreation', 'Personal care', 'Retail', 'Industries', 'Houses of worship', 'Food and drink']",May 31,True,True,True,True,False,True,True,6
-32,New York,Reopened,"['Retail', 'Houses of worship', 'Outdoor and recreation', 'Industries', 'Food and drink', 'Personal care']",May 28,True,True,True,True,False,True,True,6
-33,North Carolina,Reopened,"['Retail', 'Food and drink', 'Personal care', 'Outdoor and recreation']",May 22,True,True,True,True,False,False,False,4
-34,North Dakota,Reopened,"['Food and drink', 'Outdoor and recreation', 'Personal care', 'Entertainment']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,False,4
-35,Ohio,Reopened,"['Industries', 'Retail', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment', 'Entertainment']",May 29,True,True,True,True,True,True,False,6
-36,Oklahoma,Reopened,"['Personal care', 'Outdoor and recreation', 'Food and drink', 'Entertainment', 'Houses of worship', 'Industries']",Did not have a statewide stay-at-home order.,True,False,True,True,True,True,True,6
-37,Pennsylvania,Reopened,"['Outdoor and recreation', 'Food and drink', 'Personal care', 'Entertainment', 'Retail']",June 4,True,True,True,True,True,False,False,5
-38,Puerto Rico,Reopened,"['Food and drink', 'Personal care', 'Retail', 'Outdoor and recreation', 'Entertainment', 'Houses of worship']",June 15,True,True,True,True,True,False,True,6
-39,Rhode Island,Reopened,"['Outdoor and recreation', 'Retail', 'Industries', 'Personal care', 'Houses of worship', 'Food and drink']",May 8,True,True,True,True,False,True,True,6
-40,South Carolina,Reopened,"['Retail', 'Outdoor and recreation', 'Food and drink', 'Personal care']",May 4,True,True,True,True,False,False,False,4
-41,South Dakota,Reopened,[],Did not have a statewide stay-at-home order.,False,False,False,False,False,False,False,0
-42,Texas,Reopened,"['Outdoor and recreation', 'Retail', 'Food and drink', 'Entertainment', 'Personal care', 'Industries', 'Entertainment']",April 30,True,True,True,True,True,True,False,6
-43,Utah,Reopened,"['Food and drink', 'Personal care', 'Outdoor and recreation']",Did not have a statewide stay-at-home order.,True,False,True,True,False,False,False,3
-44,Vermont,Reopened,"['Industries', 'Outdoor and recreation', 'Retail', 'Personal care', 'Entertainment', 'Food and drink']",May 15,True,True,True,True,True,True,False,6
-45,Virginia,Reopened,"['Retail', 'Personal care', 'Outdoor and recreation', 'Houses of worship', 'Food and drink', 'Entertainment']",June 10,True,True,True,True,True,False,True,6
-46,Washington,Reopened,"['Outdoor and recreation', 'Retail', 'Houses of worship', 'Food and drink', 'Personal care', 'Industries', 'Entertainment']",May 31,True,True,True,True,True,True,True,7
-47,West Virginia,Reopened,"['Personal care', 'Outdoor and recreation', 'Food and drink', 'Retail', 'Entertainment']",May 3,True,True,True,True,True,False,False,5
-48,Wisconsin,Reopened,"['Outdoor and recreation', 'Personal care', 'Retail']",May 13,True,True,False,True,False,False,False,3
-49,Wyoming,Reopened,"['Outdoor and recreation', 'Personal care', 'Food and drink', 'Entertainment']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,False,4
-50,Oregon,Reopened,"['Outdoor and recreation', 'Food and drink', 'Retail', 'Personal care', 'Entertainment', 'Industries']",March 23,True,True,True,True,True,True,False,6
-51,Tennessee,Reopened,"['Outdoor and recreation', 'Food and drink', 'Retail', 'Personal care']",April 30,True,True,True,True,False,False,False,4
+,State,Reopened,Reopened Places Overview,Order Expiration,Outdoor and recreation,Retail,Food and drink,Personal care,Entertainment,Industries,Houses of worship,Total Count,Governor,Party,Abbreviation
+0,Alabama,Reopened,"['Outdoor and recreation', 'Retail', 'Food and drink', 'Personal care', 'Entertainment']",April 30,True,True,True,True,True,False,False,5,Kay Ivey,Republican,AL
+1,Alaska,Reopened,"['Food and drink', 'Retail', 'Personal care', 'Outdoor and recreation', 'Entertainment']",April 24,True,True,True,True,True,False,False,5,Mike Dunleavy,Republican,AK
+2,Arizona,Reopened,"['Retail', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment']",May 15,True,True,True,True,True,False,False,5,Doug Ducey,Republican,AZ
+3,Arkansas,Reopened,"['Outdoor and recreation', 'Personal care', 'Food and drink', 'Entertainment']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,False,4,Asa Hutchinson,Republican,AR
+4,California,Reopened,"['Industries', 'Personal care', 'Food and drink', 'Houses of worship', 'Retail', 'Entertainment', 'Outdoor and recreation', 'Personal care']",March 19,True,True,True,True,True,True,True,7,Gavin Newsom,Democratic,CA
+5,Colorado,Reopened,"['Personal care', 'Retail', 'Industries', 'Outdoor and recreation', 'Food and drink']",April 26,True,True,True,True,False,True,False,5,Jared Polis,Democratic,CO
+6,Connecticut,Reopened,"['Retail', 'Personal care', 'Entertainment', 'Industries', 'Outdoor and recreation', 'Food and drink']",May 20,True,True,True,True,True,True,False,6,Ned Lamont,Democratic,CT
+7,Delaware,Reopened,"['Food and drink', 'Outdoor and recreation', 'Retail', 'Entertainment', 'Personal care']",May 31,True,True,True,True,True,False,False,5,John C. Carney Jr.,Democratic,DE
+8,District of Columbia,Reopened,"['Food and drink', 'Retail', 'Entertainment', 'Outdoor and recreation', 'Personal care']",May 29,True,True,True,True,True,False,False,5,,,DC
+9,Florida,Reopened,"['Food and drink', 'Retail', 'Outdoor and recreation', 'Houses of worship', 'Entertainment', 'Personal care']",May 4,True,True,True,True,True,False,True,6,Ron DeSantis,Republican,FL
+10,Georgia,Reopened,"['Outdoor and recreation', 'Entertainment', 'Personal care', 'Food and drink']",April 30,True,False,True,True,True,False,False,4,Brian Kemp,Republican,GA
+11,Hawaii,Reopened,"['Outdoor and recreation', 'Retail', 'Personal care', 'Industries', 'Houses of worship', 'Food and drink', 'Outdoor and recreation']",May 31,True,True,True,True,False,True,True,6,David Ige,Democratic,HI
+12,Idaho,Reopened,"['Houses of worship', 'Outdoor and recreation', 'Food and drink', 'Personal care', 'Entertainment']",April 30,True,False,True,True,True,False,True,5,Brad Little,Republican,ID
+13,Illinois,Reopened,"['Outdoor and recreation', 'Personal care', 'Food and drink', 'Retail', 'Industries']",May 29,True,True,True,True,False,True,False,5,J.B. Pritzker,Democratic,IL
+14,Indiana,Reopened,"['Entertainment', 'Industries', 'Houses of worship', 'Food and drink', 'Personal care', 'Retail', 'Outdoor and recreation']",May 4,True,True,True,True,True,True,True,7,Eric Holcomb,Republican,IN
+15,Iowa,Reopened,"['Houses of worship', 'Entertainment', 'Outdoor and recreation', 'Personal care', 'Food and drink', 'Retail']",Did not have a statewide stay-at-home order.,True,True,True,True,True,False,True,6,Kim Reynolds,Republican,IA
+16,Kansas,Reopened,"['Food and drink', 'Retail', 'Houses of worship', 'Industries', 'Personal care', 'Outdoor and recreation', 'Entertainment']",May 3,True,True,True,True,True,True,True,7,Laura Kelly,Democratic,KS
+17,Kentucky,Reopened,"['Houses of worship', 'Industries', 'Personal care', 'Retail', 'Food and drink', 'Entertainment', 'Outdoor and recreation']",March 26,True,True,True,True,True,True,True,7,Andy Beshear,Democratic,KY
+18,Louisiana,Reopened,"['Food and drink', 'Outdoor and recreation', 'Retail', 'Entertainment', 'Personal care', 'Houses of worship']",May 15,True,True,True,True,True,False,True,6,John Bel Edwards,Democratic,LA
+19,Maine,Reopened,"['Personal care', 'Outdoor and recreation', 'Food and drink', 'Retail', 'Houses of worship']",May 31,True,True,True,True,False,False,True,5,Janet T. Mills,Democratic,ME
+20,Maryland,Reopened,"['Outdoor and recreation', 'Retail', 'Industries', 'Houses of worship', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment', 'Retail']",May 15,True,True,True,True,True,True,True,7,Larry Hogan,Republican,MD
+21,Massachusetts,Reopened,"['Outdoor and recreation', 'Houses of worship', 'Industries', 'Retail', 'Personal care', 'Food and drink']",May 18,True,True,True,True,False,True,True,6,Charles D. Baker,Republican,MA
+22,Michigan,Reopened,"['Outdoor and recreation', 'Industries', 'Retail', 'Personal care', 'Food and drink', 'Entertainment']",June 1,True,True,True,True,True,True,False,6,Gretchen Whitmer,Democratic,MI
+23,Minnesota,Reopened,"['Industries', 'Retail', 'Houses of worship', 'Personal care', 'Outdoor and recreation', 'Food and drink', 'Entertainment']",May 17,True,True,True,True,True,True,True,7,Tim Walz,Democratic,MN
+24,Mississippi,Reopened,"['Retail', 'Food and drink', 'Outdoor and recreation', 'Personal care', 'Entertainment']",April 27,True,True,True,True,True,False,False,5,Tate Reeves,Republican,MS
+25,Missouri,Reopened,"['Food and drink', 'Personal care', 'Retail', 'Outdoor and recreation', 'Entertainment']",May 3,True,True,True,True,True,False,False,5,Mike Parson,Republican,MO
+26,Montana,Reopened,"['Houses of worship', 'Retail', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment']",April 26,True,True,True,True,True,False,True,6,Steve Bullock,Democratic,MT
+27,Nebraska,Reopened,"['Houses of worship', 'Food and drink', 'Entertainment', 'Outdoor and recreation', 'Personal care', 'Food and drink', 'Entertainment', 'Outdoor and recreation']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,True,5,Pete Ricketts,Republican,NE
+28,Nevada,Reopened,"['Outdoor and recreation', 'Retail', 'Food and drink', 'Personal care', 'Entertainment', 'Houses of worship']",May 9,True,True,True,True,True,False,True,6,Steve Sisolak,Democratic,NV
+29,New Hampshire,Reopened,"['Retail', 'Personal care', 'Outdoor and recreation', 'Food and drink', 'Houses of worship', 'Entertainment']",June 15,True,True,True,True,True,False,True,6,Chris Sununu,Republican,NH
+30,New Jersey,Reopened,"['Outdoor and recreation', 'Industries', 'Retail', 'Food and drink', 'Entertainment', 'Personal care', 'Outdoor and recreation']",June 9,True,True,True,True,True,True,False,6,Phil Murphy,Democratic,NJ
+31,New Mexico,Reopened,"['Outdoor and recreation', 'Personal care', 'Retail', 'Industries', 'Houses of worship', 'Food and drink']",May 31,True,True,True,True,False,True,True,6,Michelle Lujan Grisham,Democratic,NM
+32,New York,Reopened,"['Retail', 'Houses of worship', 'Outdoor and recreation', 'Industries', 'Food and drink', 'Personal care']",May 28,True,True,True,True,False,True,True,6,Andrew Cuomo,Democratic,NY
+33,North Carolina,Reopened,"['Retail', 'Food and drink', 'Personal care', 'Outdoor and recreation']",May 22,True,True,True,True,False,False,False,4,Roy Cooper,Democratic,NC
+34,North Dakota,Reopened,"['Food and drink', 'Outdoor and recreation', 'Personal care', 'Entertainment']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,False,4,Doug Burgum,Republican,ND
+35,Ohio,Reopened,"['Industries', 'Retail', 'Personal care', 'Food and drink', 'Outdoor and recreation', 'Entertainment', 'Entertainment']",May 29,True,True,True,True,True,True,False,6,Richard Michael DeWine,Republican,OH
+36,Oklahoma,Reopened,"['Personal care', 'Outdoor and recreation', 'Food and drink', 'Entertainment', 'Houses of worship', 'Industries']",Did not have a statewide stay-at-home order.,True,False,True,True,True,True,True,6,Kevin Stitt,Republican,OK
+37,Pennsylvania,Reopened,"['Outdoor and recreation', 'Food and drink', 'Personal care', 'Entertainment', 'Retail']",June 4,True,True,True,True,True,False,False,5,Tom Wolf,Democratic,PA
+38,Puerto Rico,Reopened,"['Food and drink', 'Personal care', 'Retail', 'Outdoor and recreation', 'Entertainment', 'Houses of worship']",June 15,True,True,True,True,True,False,True,6,,,
+39,Rhode Island,Reopened,"['Outdoor and recreation', 'Retail', 'Industries', 'Personal care', 'Houses of worship', 'Food and drink']",May 8,True,True,True,True,False,True,True,6,Gina Raimondo,Democratic,RI
+40,South Carolina,Reopened,"['Retail', 'Outdoor and recreation', 'Food and drink', 'Personal care']",May 4,True,True,True,True,False,False,False,4,Henry McMaster,Republican,SC
+41,South Dakota,Reopened,[],Did not have a statewide stay-at-home order.,False,False,False,False,False,False,False,0,Kristi L. Noem,Republican,SD
+42,Texas,Reopened,"['Outdoor and recreation', 'Retail', 'Food and drink', 'Entertainment', 'Personal care', 'Industries', 'Entertainment']",April 30,True,True,True,True,True,True,False,6,Greg Abbott,Republican,TX
+43,Utah,Reopened,"['Food and drink', 'Personal care', 'Outdoor and recreation']",Did not have a statewide stay-at-home order.,True,False,True,True,False,False,False,3,Gary Herbert,Republican,UT
+44,Vermont,Reopened,"['Industries', 'Outdoor and recreation', 'Retail', 'Personal care', 'Entertainment', 'Food and drink']",May 15,True,True,True,True,True,True,False,6,Phil Scott,Republican,VT
+45,Virginia,Reopened,"['Retail', 'Personal care', 'Outdoor and recreation', 'Houses of worship', 'Food and drink', 'Entertainment']",June 10,True,True,True,True,True,False,True,6,Ralph Northam,Democratic,VA
+46,Washington,Reopened,"['Outdoor and recreation', 'Retail', 'Houses of worship', 'Food and drink', 'Personal care', 'Industries', 'Entertainment']",May 31,True,True,True,True,True,True,True,7,Jay Inslee,Democratic,WA
+47,West Virginia,Reopened,"['Personal care', 'Outdoor and recreation', 'Food and drink', 'Retail', 'Entertainment']",May 3,True,True,True,True,True,False,False,5,Jim Justice,Republican,WV
+48,Wisconsin,Reopened,"['Outdoor and recreation', 'Personal care', 'Retail']",May 13,True,True,False,True,False,False,False,3,Tony Evers,Democratic,WI
+49,Wyoming,Reopened,"['Outdoor and recreation', 'Personal care', 'Food and drink', 'Entertainment']",Did not have a statewide stay-at-home order.,True,False,True,True,True,False,False,4,Mark Gordon,Republican,WY
+50,Oregon,Reopened,"['Outdoor and recreation', 'Food and drink', 'Retail', 'Personal care', 'Entertainment', 'Industries']",March 23,True,True,True,True,True,True,False,6,Kate Brown,Democratic,OR
+51,Tennessee,Reopened,"['Outdoor and recreation', 'Food and drink', 'Retail', 'Personal care']",April 30,True,True,True,True,False,False,False,4,Bill Lee,Republican,TN
